@@ -67,11 +67,40 @@ background-size: cover;
     
 }
 
+.bot_incr{
+   background-color: #337AB7;
+    border-radius: 5px;
+    color: white;
+    padding: 7px 9px 7px 9px;
+    border: none;
+
+}
+
+
 .seccion_persona {
 text-align: center;
   background-size: cover;
 }
 
-.titulo_persona{
+.jumbotron{
   text-align: center;
+  background-color: #cdcdcd30;
+  margin-bottom: 15px;
+   
+}
+
+.jumbotron p{
+  font-size: 12px;
+}
+
+
+.footer{
+
+  background-color: black
+  color:white;
+}
+
+.seccion_contacto{
+
+  margin-left: 200px;
 }
