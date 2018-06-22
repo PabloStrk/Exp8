@@ -94,10 +94,10 @@ text-align: center;
 }
 
 
-.footer{
-
-  background-color: black
-  color:white;
+.panel-body {
+    padding: 20px;
+    background-color: black;
+    color: white;
 }
 
 .seccion_contacto{
